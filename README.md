@@ -1,3 +1,3 @@
-# py_pkg
+# retro_pkg_test
 
-[如何打包并发布 Python 库到 PyPI](https://makeoptim.com//python/pypi-pkg)
+retro 模块测试
